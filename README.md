@@ -118,8 +118,31 @@ Method	Endpoint	Description
 
 
 GET	/tasks	Retrieve all tasks
+
+
+
+
+
 GET	/tasks/:id	Retrieve a specific task by ID
+
+
+
+
 POST	/tasks	Create a new task
+
+
+
+
+
 PUT	/tasks/:id	Update an existing task
+
+
+
+
+
 DELETE	/tasks/:id	Delete a task
+
+
+
+
 PATCH	/tasks/:id/complete	Mark a task as complete
